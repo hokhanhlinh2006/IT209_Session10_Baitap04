@@ -31,3 +31,5 @@ Backend phân giải được hostname db-server. Dữ liệu PostgreSQL vẫn t
 
 ## Kết luận
 Hoàn thành cấu hình Custom Network và Named Volume bằng Docker CLI.
+<img width="660" height="582" alt="ex4_ss10" src="https://github.com/user-attachments/assets/cf58e68c-3214-4686-8da3-9448ef34d6b3" />
+
